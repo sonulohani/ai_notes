@@ -11,7 +11,10 @@
   * [Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation)
     * [Beautiful explaination of SD and variance](https://www.mathsisfun.com/data/standard-deviation.html)
 * [Probability density function](https://en.wikipedia.org/wiki/Probability_density_function)
+  * PDF is mainly used for continuous random variable
+  * PMF is used for descrete random variable
 * [Cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function)
+  * [What, Why, and How to Read Empirical CDF](https://towardsdatascience.com/what-why-and-how-to-read-empirical-cdf-123e2b922480)
 * [Normal Distribution](https://www.mathsisfun.com/data/standard-normal-distribution.html)
   * https://en.wikipedia.org/wiki/Normal_distribution
 * [68–95–99.7 rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
@@ -21,3 +24,20 @@
   * [Skewed distribution](https://www.statisticshowto.com/probability-and-statistics/skewed-distribution/)
     * https://en.wikipedia.org/wiki/Skewness
   * [Kurtosis](https://en.wikipedia.org/wiki/Kurtosis)
+* Standard Normal Variate($Z$) and Standarization
+  * [Standard Normal Variate](https://www.mbaskool.com/business-concepts/operations-logistics-supply-chain-terms/7451-standard-normal-variate-snv.html)
+  * [Standarization](https://365datascience.com/standardization/)
+* [Kernel density estimation](https://mathisonian.github.io/kde/)
+  * [Other Link 1](https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html)
+  * [Other Link 2](https://en.wikipedia.org/wiki/Kernel_density_estimation)
+* [Sampling Distribution and Central Limit Theorem](https://www.spss-tutorials.com/sampling-distribution-what-is-it/)
+  * [Central limit theorem-1](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/BS704_Probability12.html)
+  * [Central limit theorem-2](https://en.wikipedia.org/wiki/Central_limit_theorem)
+* [Quantile-Quantile Plot](https://www.itl.nist.gov/div898/handbook/eda/section3/qqplot.htm)
+  * [What In The World Are QQ Plots?](https://towardsdatascience.com/what-in-the-world-are-qq-plots-20d0e41dece1)
+* [Chebyshev's inequality](https://www.statlect.com/fundamentals-of-probability/Chebyshev-inequality)
+  * https://en.wikipedia.org/wiki/Chebyshev%27s_inequality
+* [Continuous Uniform Distribution](https://en.wikipedia.org/wiki/Uniform_distribution_(continuous))
+* [Discrete Uniform Distribution](https://en.wikipedia.org/wiki/Discrete_uniform_distribution)
+* [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)
+* [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)
