@@ -49,3 +49,6 @@
 * [Covariance](https://en.wikipedia.org/wiki/Covariance)
 * [Pearson correlation coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
 * [Spearman's rank correlation coefficient](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient)
+* [Correlation does not mean causation](https://stats.stackexchange.com/questions/36/examples-for-teaching-correlation-does-not-mean-causation)
+* [Applications of correlation](https://www.quora.com/What-are-the-applications-of-correlation)
+* [Confidence Intervals](https://www.mathsisfun.com/data/confidence-interval.html)
