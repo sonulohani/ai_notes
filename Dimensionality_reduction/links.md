@@ -4,3 +4,4 @@
 * [Column normalization/standarization](https://medium.com/@jalesh.j/column-normalization-and-column-standardization-in-machine-learning-e056501056b)
 * [Sample Mean/Mean vector and Covariance](https://en.wikipedia.org/wiki/Sample_mean_and_covariance)
 * [Symmetrix matrix](https://en.wikipedia.org/wiki/Symmetric_matrix)
+* [Visualizing MNIST](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
