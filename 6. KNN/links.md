@@ -12,3 +12,4 @@
 * [Mathematical notation for subset of a dataset](https://stats.stackexchange.com/questions/321549/mathematical-notation-for-subset-of-a-dataset-based-on-temporal-conditions)
 * [Classification vs Regression](https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7)
 * [Cross validation with different values of K](https://idc9.github.io/stor390/notes/cross_validation/cross_validation.html)
+* [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagram)
