@@ -13,3 +13,4 @@
 * [Classification vs Regression](https://medium.com/quick-code/regression-versus-classification-machine-learning-whats-the-difference-345c56dd15f7)
 * [Cross validation with different values of K](https://idc9.github.io/stor390/notes/cross_validation/cross_validation.html)
 * [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagram)
+* [kd trees](https://en.wikipedia.org/wiki/K-d_tree)
