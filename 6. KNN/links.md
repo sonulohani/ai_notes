@@ -14,3 +14,4 @@
 * [Cross validation with different values of K](https://idc9.github.io/stor390/notes/cross_validation/cross_validation.html)
 * [Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagram)
 * [kd trees](https://en.wikipedia.org/wiki/K-d_tree)
+* [Locality-sensitive hashing](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
