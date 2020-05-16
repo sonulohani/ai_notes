@@ -1,4 +1,4 @@
-## KNN
+## KNN(https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
 
 * [Classification in ML](https://www.edureka.co/blog/classification-in-machine-learning/) 
 * Difference between target data, testing data and training data
